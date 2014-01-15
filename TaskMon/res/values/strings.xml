@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task Monitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome to Process Tracker!</string>
+    <string name="create_new">Fill out the process details</string>
+    <string name="pid">PID</string>
+    <string name="C">C Secs</string>
+    <string name="t">T NanoSecs</string>
+    <string name="button1">OK</string>
+    <string name="button2">Cancel</string>
+    <string name="xAxisChooserLabel">x-Axis:</string>
+    <string name="add">Add Process</string>
+    <string name="title_activity_Page2">Task Monitor</string>
+    <string name="switchview">Switch View</string>
+</resources>
